@@ -1,0 +1,13 @@
+venv
+.idea
+.tox
+build
+dist
+htmlcov
+logs
+swagger_server.egg-info
+*pycache*
+*.configurations.logger.log
+*.env
+*.coverage
+/coverage.xml
